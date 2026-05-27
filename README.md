@@ -42,6 +42,8 @@
 
 ### Talks
 
+- 2026-06-24, TROOPERS26: [Tier Breakers: Blind Spots in Cloud-Managed PAWs](https://troopers.de/troopers26/talks/8cbzws/) w/ [Thomas Naunheim](https://www.cloud-architekt.net/)
+- 2026-06-20, BSides Aarhus 2026: [RTFM - Read The Fatal Manual: When Documentation Creates Critical Misconfiguration](https://bsidesaarhus.dk/sessions/rtfm-fatal-manual/)
 - 2026-04-24, BSides Prague 2026: [RTFM - Read The Fatal Manual: When Documentation Creates Critical Misconfiguration](https://bsidesprg2026.sched.com/event/2IN7m/rtfm-read-the-fatal-manual-when-documentation-creates-critical-misconfiguration)
 - 2022-10-09, BSides Copenhagen 2022: [Don't be trusted: Active Directory trust attacks](https://github.com/martinsohn/Active-Directory-trust-attacks/tree/main/presentations/BSidesCPH2022), and [the recording](https://vimeo.com/787332389)
 - 2022-08-14, Adversary Village DEF CON 30: [Don't be trusted: Active Directory trust attacks](https://github.com/martinsohn/Active-Directory-trust-attacks/tree/main/presentations/AdversaryVillage2022)
