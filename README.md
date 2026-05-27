@@ -67,7 +67,7 @@
 ### Certifications/trainings
 
 - SpecterOps - Adversary Tactics: Identity-Driven Offensive Tradecraft (AT:IDOT)
-- SpecterOps - Adversary Tactics: Red Team Operations (AT:RTO)
+- SpecterOps - Adversary Tactics: Red Team Operations (AT:RTO) @ SO-CON 2025
 - SpecterOps - Adversary Perspectives: Active Directory (AP:AD) [Certified Trainer]
 - Outsider Security - Offensive Entra ID (Azure AD) and Hybrid AD Security @ Insomni'hack 2024
 - SpecterOps - Adversary Tactics: Vulnerability Research for Operators (AT:VRO) @ Black Hat 2023
