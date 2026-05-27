@@ -12,9 +12,8 @@
 - [BloodHound Query Library](https://queries.specterops.io/) - A community-driven repository of BloodHound queries
 - [ManagerOfHound](https://github.com/martinsohn/ManagerOfHound) - OpenGraph extension for BloodHound to discover manager-subordinate privilege escalation paths
 - [CIS Controls Initial Assessment Tool v8.0b](https://github.com/martinsohn/CIS-Controls) - Enhanced CIS Controls v8 assessment spreadsheet with consolidated safeguards and enriched metadata
-- [Office phish templates and defense recommendations](https://github.com/martinsohn/Office-phish-templates) - Social engineering templates to trick users into enabling macros, plus comprehensive defense strategies
+- [Office phish templates and defense recommendations](https://github.com/martinsohn/Office-phish-templates) - Social engineering templates to trick users into enabling macros ([featured by Emotet](https://www.trendmicro.com/en_us/research/22/a/emotet-spam-abuses-unconventional-ip-address-formats-spread-malware.html)), plus comprehensive defense strategies
 - [PowerShell TCP reverse shell](https://github.com/martinsohn/PowerShell-reverse-shell) - Encrypted reverse shell with DNS-over-HTTPS C2 discovery and comprehensive PowerShell defense guidance
-- [CVE-2020-8816 analysis and PoC](https://github.com/martinsohn/CVE-2020-8816) - Alternative Pi-hole RCE exploit using $PWD and globbing instead of $PATH manipulation
 
 ### Posts
 
@@ -23,11 +22,11 @@
 - 2023-03-02, [How I killed BT's payphone email service](https://itm8.com/articles/how-i-killed-bt-payphone-email-service)
 - 2023-02-13, [Basic Microsoft Active Directory Security - Identify and Prioritize Low-hanging Risks](https://itm8.com/articles/basic-microsoft-active-directory-security-identify-and-prioritize-low-hanging-risks)
 - 2022-09-13, [Local privilege escalation vulnerabilities in PeaZip MSI installer](https://itm8.com/articles/local-privilege-escalation-vulnerabilities-in-peazip-msi-installer) - CVE-2022-40779 & CVE-2022-47082
-- Series: Email security (collab)
+- Series: Email security (collab w/ [Jeffrey Bencteux](https://www.bencteux.fr/) & [Sebastian Andersen](https://www.linkedin.com/in/ssa111/))
     - 2022-06-21, [Part 1: All Your SPF Includes Are Belong To Us](https://itm8.com/articles/all-your-spf-includes-are-belong-to-us)
     - 2022-06-27, [Part 2: Phish'n'Chimps: email spoofing via marketing and CRM platforms](https://itm8.com/articles/mail-spoofing-via-marketing-and-crm-platforms)
     - 2022-07-08, [Part 3: Email Security Pitfalls](https://web.archive.org/web/20230601105530/https://improsec.com/tech-blog/email-security-pitfalls)
-- Series: SID filter as security boundary between domains? (collab)
+- Series: SID filter as security boundary between domains? (collab w/ [Jonas Bülow Knudsen](https://github.com/JonasBK) & [Tobias Torp](https://www.linkedin.com/in/tobias-torp/))
     - 2022-03-28, [Part 1: Kerberos authentication explained](https://itm8.com/articles/sid-filter-as-security-boundary-between-domains-part-1)
     - 2022-03-29, [Part 2: Known AD attacks - from child to parent](https://itm8.com/articles/sid-filter-as-security-boundary-between-domains-part-2)
     - 2022-04-01, [Part 3: SID filtering explained](https://itm8.com/articles/sid-filter-as-security-boundary-between-domains-part-3)
@@ -39,14 +38,15 @@
 - 2022-03-01, [Network share risks - Deploying secure defaults and searching shares for sensitive information (credentials, PII, and more)](https://itm8.com/articles/network-share-risks-deploying-secure-defaults-and-searching-shares-for-sensitive-information)
 - 2021-12-03, [The command prompt has been disabled by your administrator. Press any key to continue... or use these weird tricks to bypass – admins will hate you!](https://itm8.com/articles/command-prompt-been-disabled-by-your-administrator)
 - 2021-01-28, [Privilege escalation vulnerability in NinjaRMM Agent MSI Installer introduced by EXEMSI MSI Wrapper](https://itm8.com/articles/privilege-escalation-vulnerability-in-ninjarmm-agent-msi-installer-introduced-by-exemsi-msi-wrapper) - CVE-2021-26273 & CVE-2021-26274
+- 2020-06-16, [Pi-hole CVE-2020-8816 analysis and alternative PoC](https://github.com/martinsohn/CVE-2020-8816/tree/master)
 
 ### Talks
 
-- 2026-06-24, TROOPERS26: [Tier Breakers: Blind Spots in Cloud-Managed PAWs](https://troopers.de/troopers26/talks/8cbzws/) w/ [Thomas Naunheim](https://www.cloud-architekt.net/)
+- 2026-06-24, TROOPERS26: [Tier Breakers: Blind Spots in Cloud-Managed PAWs](https://troopers.de/troopers26/talks/8cbzws/) (collab w/ [Thomas Naunheim](https://www.cloud-architekt.net/))
 - 2026-06-20, BSides Aarhus 2026: [RTFM - Read The Fatal Manual: When Documentation Creates Critical Misconfiguration](https://bsidesaarhus.dk/sessions/rtfm-fatal-manual/)
 - 2026-04-24, BSides Prague 2026: [RTFM - Read The Fatal Manual: When Documentation Creates Critical Misconfiguration](https://bsidesprg2026.sched.com/event/2IN7m/rtfm-read-the-fatal-manual-when-documentation-creates-critical-misconfiguration)
-- 2022-10-09, BSides Copenhagen 2022: [Don't be trusted: Active Directory trust attacks](https://github.com/martinsohn/Active-Directory-trust-attacks/tree/main/presentations/BSidesCPH2022), and [the recording](https://vimeo.com/787332389)
-- 2022-08-14, Adversary Village DEF CON 30: [Don't be trusted: Active Directory trust attacks](https://github.com/martinsohn/Active-Directory-trust-attacks/tree/main/presentations/AdversaryVillage2022)
+- 2022-10-09, BSides Copenhagen 2022: [Don't be trusted: Active Directory trust attacks](https://github.com/martinsohn/Active-Directory-trust-attacks/tree/main/presentations/BSidesCPH2022), and [the recording](https://vimeo.com/787332389) (collab w/ [Jonas Bülow Knudsen](https://github.com/JonasBK))
+- 2022-08-14, Adversary Village DEF CON 30: [Don't be trusted: Active Directory trust attacks](https://github.com/martinsohn/Active-Directory-trust-attacks/tree/main/presentations/AdversaryVillage2022) (collab w/ [Jonas Bülow Knudsen](https://github.com/JonasBK))
 - 2022-03-26, OWASP Copenhagen: Email spoofing via marketing platforms
 
 ### CVEs & Security Advisories
