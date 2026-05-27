@@ -66,11 +66,12 @@
 
 ### Certifications/trainings
 
-- SpecterOps - Adversary Tactics: Identity-Driven Offensive Tradecraft
-- SpecterOps - Adversary Tactics: Red Team Operations
+- SpecterOps - Adversary Tactics: Identity-Driven Offensive Tradecraft (AT:IDOT)
+- SpecterOps - Adversary Tactics: Red Team Operations (AT:RTO)
+- SpecterOps - Adversary Perspectives: Active Directory (AP:AD) [Certified Trainer]
 - Outsider Security - Offensive Entra ID (Azure AD) and Hybrid AD Security @ Insomni'hack 2024
-- SpecterOps - Adversary Tactics: Vulnerability Research for Operators @ Black Hat 2023
-- SpecterOps - Adversary Tactics: Tradecraft Analysis @ Black Hat 2022
+- SpecterOps - Adversary Tactics: Vulnerability Research for Operators (AT:VRO) @ Black Hat 2023
+- SpecterOps - Adversary Tactics: Tradecraft Analysis (AT:TA) @ Black Hat 2022
 - eLearnSecurity - Certified Professional Penetration Tester (eCPPTv2)
 - Zero-Point Security - Certified Red Team Operator (CRTO)
 - Pentester Academy - Certified Red Team Professional (CRTP)
