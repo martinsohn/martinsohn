@@ -17,6 +17,8 @@
 
 ### Posts
 
+- 2026-06-08, [Keeping a Short Leash: New AzureHound Least-Privilege Documentation](https://specterops.io/blog/2026/06/08/keeping-a-short-leash-new-azurehound-least-privilege-documentation/)
+- 2026-04-15, [What's New in the BloodHound Query Library: BYOL, OpenGraph, Multi-Server, and More](https://specterops.io/blog/2026/04/15/whats-new-in-the-bloodhound-query-library-byol-opengraph-multi-server-and-more/)
 - 2026-03-24, [RTFM: Read The Fatal Manual – When Vendor Documentation Creates Critical Attack Paths](https://specterops.io/blog/2026/03/24/rtfm-read-the-fatal-manual-when-vendor-documentation-creates-critical-attack-paths/)
 - 2025-06-17, [Introducing the BloodHound Query Library](https://specterops.io/blog/2025/06/17/introducing-the-bloodhound-query-library/)
 - 2023-03-02, [How I killed BT's payphone email service](https://itm8.com/articles/how-i-killed-bt-payphone-email-service)
