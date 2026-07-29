@@ -9,6 +9,7 @@
 
 ### Tools
 
+- [EntraOps BloodHound Integration](https://github.com/Cloud-Architekt/EntraOps#bloodhound-integration) - Bring EntraOps classifications and attack paths into BloodHound's powerful graph
 - [BloodHound Query Library](https://queries.specterops.io/) - A community-driven repository of BloodHound queries
 - [ManagerOfHound](https://github.com/martinsohn/ManagerOfHound) - OpenGraph extension for BloodHound to discover manager-subordinate privilege escalation paths
 - [CIS Controls Initial Assessment Tool v8.0b](https://github.com/martinsohn/CIS-Controls) - Enhanced CIS Controls v8 assessment spreadsheet with consolidated safeguards and enriched metadata
