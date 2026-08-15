@@ -70,12 +70,12 @@
 
 ### Certifications/trainings
 
-- SpecterOps - Adversary Tactics: Identity-Driven Offensive Tradecraft (AT:IDOT)
-- SpecterOps - Adversary Tactics: Red Team Operations (AT:RTO) @ SO-CON 2025
-- SpecterOps - Adversary Perspectives: Active Directory (AP:AD) [Certified Trainer]
-- Outsider Security - Offensive Entra ID (Azure AD) and Hybrid AD Security @ Insomni'hack 2024
-- SpecterOps - Adversary Tactics: Vulnerability Research for Operators (AT:VRO) @ Black Hat 2023
-- SpecterOps - Adversary Tactics: Tradecraft Analysis (AT:TA) @ Black Hat 2022
-- eLearnSecurity - Certified Professional Penetration Tester (eCPPTv2)
-- Zero-Point Security - Certified Red Team Operator (CRTO)
-- Pentester Academy - Certified Red Team Professional (CRTP)
+- [SpecterOps - Adversary Tactics: Identity-Driven Offensive Tradecraft](https://specterops.io/training/identity-driven-offensive-tradecraft/) (AT:IDOT) [\[credly.com\]](https://www.credly.com/badges/b47634cd-4d75-4c02-adf6-a1c948ca945c/public_url) [\[image\]](/certifications/specterops-idot.png)
+- [SpecterOps - Adversary Tactics: Red Team Operations](https://specterops.io/training/red-team-operations/) (AT:RTO) @ SO-CON 2025 [\[credly.com\]](https://www.credly.com/badges/01915770-f6fb-4c75-908f-ad80c8a6a51c/public_url) [\[image\]](/certifications/specterops-rto.png)
+- [SpecterOps - Adversary Perspectives: Active Directory](https://specterops.io/training/adversary-perspectives-active-directory/) (AP:AD) [Certified Trainer] [\[credly.com\]](https://www.credly.com/badges/d1d6196e-1eb8-4597-a02e-418e55a3ac7d)
+- [Outsider Security - Offensive Entra ID (Azure AD) and Hybrid AD Security](https://outsidersecurity.nl/training/) @ Insomni'hack 2024 [\[image\]](/certifications/outsider-security-offensive-entra-id.png)
+- [SpecterOps - Adversary Tactics: Vulnerability Research for Operators](https://web.archive.org/web/20230924103906/https://specterops.io/training/vulnerability-research-for-operators/) (AT:VRO) @ Black Hat 2023 [\[certificates.blackhat.com\]](https://certificates.blackhat.com/7c25a2c6-2971-458f-9a98-86ce58bbf958?key=9d6855828d8361639ccb371edc703e3c2fe59ca885c632ae2312be6630805b11#acc.YQGsFMjS)
+- [SpecterOps - Adversary Tactics: Tradecraft Analysis](https://specterops.io/training/tradecraft-analysis/) (AT:TA) @ Black Hat 2022 [\[credly.com\]](https://www.credly.com/badges/cdf80ba2-293e-44ca-95df-da361744def9)
+- [eLearnSecurity - Certified Professional Penetration Tester](https://web.archive.org/web/20200922034847/https://www.elearnsecurity.com/certification/ecpptv2/) (eCPPTv2) [\[verified.elearnsecurity.com\]](https://verified.elearnsecurity.com/certificates/693952a6-76c9-4176-8b9e-7aedca9375c0)
+- [Zero-Point Security - Certified Red Team Operator](https://www.zeropointsecurity.co.uk/course/red-team-ops) (CRTO) [\[badges.patchment.eu\]](https://badges.parchment.eu/public/assertions/IuaqsBsKQVGzNtkXyrGIpQ?identity__email=msc@improsec.com)
+- [Pentester Academy - Certified Red Team Professional](https://www.alteredsecurity.com/adlab) (CRTP) [\[credential.net\]](https://www.credential.net/63b03b73-a1f2-45c4-83bb-9f24909bb82d#acc.JbqUKp3v) [\[pdf\]](/certifications/pentester-academy-crtp)
