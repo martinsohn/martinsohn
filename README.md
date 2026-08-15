@@ -45,12 +45,13 @@
 
 ### Talks
 
-- 2026-06-24, TROOPERS26: Tier Breakers: Blind Spots in Cloud-Managed PAWs (collab w/ [Thomas Naunheim](https://www.cloud-architekt.net/)) [\[slides\]](https://troopers.de/troopers26/talks/8cbzws/) [\[recording\]](https://www.youtube.com/watch?v=SVNvMSYmmn0)
-- 2026-06-20, BSides Aarhus 2026: [RTFM - Read The Fatal Manual: When Documentation Creates Critical Misconfiguration](https://2026.bsidesaarhus.dk/sessions/rtfm-fatal-manual/)
-- 2026-04-24, BSides Prague 2026: [RTFM - Read The Fatal Manual: When Documentation Creates Critical Misconfiguration](https://bsidesprg2026.sched.com/event/2IN7m/rtfm-read-the-fatal-manual-when-documentation-creates-critical-misconfiguration)
-- 2022-10-09, BSides Copenhagen 2022: Don't be trusted: Active Directory trust attacks [\[slides\]](https://github.com/martinsohn/Active-Directory-trust-attacks/tree/main/presentations/BSidesCPH2022) [\[recording\]](https://vimeo.com/787332389) (collab w/ [Jonas Bülow Knudsen](https://github.com/JonasBK))
-- 2022-08-14, Adversary Village DEF CON 30: Don't be trusted: Active Directory trust attacks (collab w/ [Jonas Bülow Knudsen](https://github.com/JonasBK)) [\[slides\]](https://github.com/martinsohn/Active-Directory-trust-attacks/tree/main/presentations/AdversaryVillage2022)
-- 2022-03-26, OWASP Copenhagen: Email spoofing via marketing platforms
+- 2026-08-13, [SagaLabs Community Night: How To Think In Graphs](https://luma.com/n7fm48r2)
+- 2026-06-24, [TROOPERS26: Tier Breakers: Blind Spots in Cloud-Managed PAWs](https://troopers.de/troopers26/talks/8cbzws/) (collab w/ [Thomas Naunheim](https://www.cloud-architekt.net/)) [\[slides\]](https://troopers.de/troopers26/talks/8cbzws/) [\[recording\]](https://www.youtube.com/watch?v=SVNvMSYmmn0)
+- 2026-06-20, [BSides Aarhus 2026: RTFM - Read The Fatal Manual: When Documentation Creates Critical Misconfiguration](https://2026.bsidesaarhus.dk/sessions/rtfm-fatal-manual/)
+- 2026-04-24, [BSides Prague 2026: RTFM - Read The Fatal Manual: When Documentation Creates Critical Misconfiguration](https://bsidesprg2026.sched.com/event/2IN7m/rtfm-read-the-fatal-manual-when-documentation-creates-critical-misconfiguration)
+- 2022-10-09, [BSides Copenhagen 2022: Don't be trusted: Active Directory trust attacks](https://2022.bsideskbh.dk/schedule/index.html) [\[slides\]](https://github.com/martinsohn/Active-Directory-trust-attacks/tree/main/presentations/BSidesCPH2022) [\[recording\]](https://vimeo.com/787332389) (collab w/ [Jonas Bülow Knudsen](https://github.com/JonasBK))
+- 2022-08-14, [Adversary Village DEF CON 30: Don't be trusted: Active Directory trust attacks](https://adversaryvillage.org/adversary-events/DEFCON-30/Martin-Sohn-Christensen/) (collab w/ [Jonas Bülow Knudsen](https://github.com/JonasBK)) [\[slides\]](https://github.com/martinsohn/Active-Directory-trust-attacks/tree/main/presentations/AdversaryVillage2022)
+- 2022-03-26, [OWASP Copenhagen: Email spoofing via marketing platforms](https://owasp.org/www-chapter-copenhagen/#tuesday-april-26-2022-meetup)
 
 ### CVEs & Security Advisories
 
