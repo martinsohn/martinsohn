@@ -45,6 +45,8 @@
 
 ### Talks
 
+- 2026-11-19, [BSides Amsterdam 2026: How To Think In Graphs](https://www.bsidesams.org/sessions/how-to-think-in-graphs-1308958/)
+- 2026-11-18, [Official BSides Party & SpecterOps Community Meetup: RTFM - Read The Fatal Manual: When Documentation Creates Critical Misconfiguration](https://luma.com/guyfgy7c)
 - 2026-08-13, [SagaLabs Community Night: How To Think In Graphs](https://luma.com/n7fm48r2)
 - 2026-06-24, [TROOPERS26: Tier Breakers: Blind Spots in Cloud-Managed PAWs](https://troopers.de/troopers26/talks/8cbzws/) (collab w/ [Thomas Naunheim](https://www.cloud-architekt.net/)) [\[slides\]](https://troopers.de/troopers26/talks/8cbzws/) [\[recording\]](https://www.youtube.com/watch?v=SVNvMSYmmn0)
 - 2026-06-20, [BSides Aarhus 2026: RTFM - Read The Fatal Manual: When Documentation Creates Critical Misconfiguration](https://2026.bsidesaarhus.dk/sessions/rtfm-fatal-manual/)
@@ -70,9 +72,10 @@
 
 ### Certifications/trainings
 
+- [SpecterOps - Adversary Perspectives: Azure](https://specterops.io/training/azure/) (AP:A) [\[credly.com\]](https://www.credly.com/badges/e8b62476-6961-4084-ac4a-574eafb94f13/public_url) [\[image\]](/certifications/specterops-apa.png)
 - [SpecterOps - Adversary Tactics: Identity-Driven Offensive Tradecraft](https://specterops.io/training/identity-driven-offensive-tradecraft/) (AT:IDOT) [\[credly.com\]](https://www.credly.com/badges/b47634cd-4d75-4c02-adf6-a1c948ca945c/public_url) [\[image\]](/certifications/specterops-idot.png)
 - [SpecterOps - Adversary Tactics: Red Team Operations](https://specterops.io/training/red-team-operations/) (AT:RTO) @ SO-CON 2025 [\[credly.com\]](https://www.credly.com/badges/01915770-f6fb-4c75-908f-ad80c8a6a51c/public_url) [\[image\]](/certifications/specterops-rto.png)
-- [SpecterOps - Adversary Perspectives: Active Directory](https://specterops.io/training/adversary-perspectives-active-directory/) (AP:AD) [Certified Trainer] [\[credly.com\]](https://www.credly.com/badges/d1d6196e-1eb8-4597-a02e-418e55a3ac7d)
+- [SpecterOps - Adversary Perspectives: Active Directory](https://specterops.io/training/active-directory/) (AP:AD) [Certified Trainer] [\[credly.com\]](https://www.credly.com/badges/d1d6196e-1eb8-4597-a02e-418e55a3ac7d)
 - [Outsider Security - Offensive Entra ID (Azure AD) and Hybrid AD Security](https://outsidersecurity.nl/training/) @ Insomni'hack 2024 [\[image\]](/certifications/outsider-security-offensive-entra-id.png)
 - [SpecterOps - Adversary Tactics: Vulnerability Research for Operators](https://web.archive.org/web/20230924103906/https://specterops.io/training/vulnerability-research-for-operators/) (AT:VRO) @ Black Hat 2023 [\[certificates.blackhat.com\]](https://certificates.blackhat.com/7c25a2c6-2971-458f-9a98-86ce58bbf958?key=9d6855828d8361639ccb371edc703e3c2fe59ca885c632ae2312be6630805b11#acc.YQGsFMjS)
 - [SpecterOps - Adversary Tactics: Tradecraft Analysis](https://specterops.io/training/tradecraft-analysis/) (AT:TA) @ Black Hat 2022 [\[credly.com\]](https://www.credly.com/badges/cdf80ba2-293e-44ca-95df-da361744def9)
